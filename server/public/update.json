@@ -2,6 +2,7 @@
   "darwin-x64-prod": {
     "readme": "Second Release",
     "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/0.0.5/release.json",
+    "install": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/0.0.5/yiyewechat-0.0.5.dmg",
     "version": "0.0.5"
   }
 }
