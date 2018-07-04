@@ -1,8 +1,8 @@
 {
   "darwin-x64-prod": {
     "readme": "Second Release",
-    "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.1/latest-mac.json",
-    "version": "0.0.1"
+    "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.2/latest-mac.json",
+    "version": "0.0.2"
   },
   "win32-x64-prod": {
   }
