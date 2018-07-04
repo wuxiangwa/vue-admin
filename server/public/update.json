@@ -1,6 +1,6 @@
 {
   "darwin-x64-prod": {
-    "readme": "second Release",
+    "readme": "Second Release",
     "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/0.0.3/latest-mac.json",
     "install": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/0.0.3/yiyewechat.dmg",
     "version": "0.0.3"
