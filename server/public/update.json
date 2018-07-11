@@ -5,9 +5,9 @@
     "version": "0.0.3"
   },
   "win32-x64-prod": {
-    "readme": "版本 0.0.5 优化1:客户端只可以开一个 2: 群发后清空选择的用户 3.新添加的好友 增加到搜索 4.网址显示优化",
-    "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.5",
-    "install": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.5/yiyewechat.Setup.0.0.5.exe",
-    "version": "0.0.5"
+    "readme": "版本 0.0.6 优化 1:指定数据库目录 3. 优化搜索",
+    "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.6",
+    "install": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.6/yiyewechat.Setup.0.0.5.exe",
+    "version": "0.0.6"
   }
 }
