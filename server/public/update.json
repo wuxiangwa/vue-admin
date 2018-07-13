@@ -5,9 +5,9 @@
     "version": "0.0.3"
   },
   "win32-x64-prod": {
-    "readme": "版本 0.0.7 优化 1:用户信息 3. 群聊搜索 定时",
-    "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.7",
-    "install": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.7/yiyewechat.Setup.0.0.7.exe",
-    "version": "0.0.7"
+    "readme": "版本 0.0.8 优化 切换用户会crash优化",
+    "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.8",
+    "install": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.8/yiyewechat.Setup.0.0.8.exe",
+    "version": "0.0.8"
   }
 }
