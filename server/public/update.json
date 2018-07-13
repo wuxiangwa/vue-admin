@@ -5,7 +5,7 @@
     "version": "0.0.3"
   },
   "win32-x64-prod": {
-    "readme": "版本 0.0.8 优化 切换用户会crash优化",
+    "readme": "版本 0.0.8 优化 切换用户会crash优化test",
     "update": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.8",
     "install": "https://github.com/wuxiangwa/wuxiangwa.github.io/releases/download/v0.0.8/yiyewechat.Setup.0.0.8.exe",
     "version": "0.0.8"
